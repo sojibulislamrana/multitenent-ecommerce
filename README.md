@@ -6,3 +6,5 @@ This is a multivendor ecommerce site with neobrutalism design pattern.
     - Button, Text area, Input and other component redesigned with Neobrutalism
 
 `TODO`: Documentation
+
+New commit will be on the branch `docs/readme` for this `Readme` file.
